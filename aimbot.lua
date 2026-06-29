@@ -24,4 +24,4 @@ game:GetService("RunService").RenderStepped:Connect(function()
         mouse.Move(target.Position) -- flick that shit
     end
 end)
-print("Aimbot active - go ruin some kids' day 🎯")
+print("Aimbot active - go ruin some kids day")
